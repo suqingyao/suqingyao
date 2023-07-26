@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CullyFung, China
-- 🎨 I’m interested in frontend, javascript 
-- ✨ like code, also like to change the world.
+- 🎨 I’m a frontend developer.
+- ✨ like code, also enjoy coding.
 <p align="center">
   <samp>
     <a href="https://blog-next-i514fy1w6-cullyfung.vercel.app">blog</a> .
