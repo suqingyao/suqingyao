@@ -3,7 +3,7 @@
 - ✨ like code, also enjoy coding.
 <p align="center">
   <samp>
-    <a href="https://blog-next-i514fy1w6-cullyfung.vercel.app">blog</a> .
+    <a href="https://blog-next-brmgh0q46-cullyfung.vercel.app">blog</a> .
     <a href="https://github.com/cullyfung">Github</a> .
     <a href="https://twitter.com/cully_fung">twitter</a> .
   </samp>
