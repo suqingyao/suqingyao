@@ -19,4 +19,4 @@
 
 #### Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=webpack,rollupjs,vite,vscode,git&theme=light)](https://skillicons.dev)
