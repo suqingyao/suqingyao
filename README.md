@@ -11,19 +11,12 @@
 
 #### Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</a>
-
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 #### Frameworks 
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vue" />
-</a>
+[![Frameworks](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
 
 #### Tools
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
-</a>
+[![Tools](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
