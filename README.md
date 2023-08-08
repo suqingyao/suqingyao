@@ -15,8 +15,8 @@
 
 #### Frameworks 
 
-[![Frameworks](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vue&theme=light)](https://skillicons.dev)
 
 #### Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git&theme=light)](https://skillicons.dev)
