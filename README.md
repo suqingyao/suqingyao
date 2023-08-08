@@ -11,7 +11,7 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,go&theme=light)](https://skillicons.dev)
 
 #### Frameworks 
 
