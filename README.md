@@ -11,11 +11,11 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,go)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
 
 #### Frameworks 
 
-[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,nestjs,prisma)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,prisma)](https://skillicons.dev)
 
 #### Tools
 
