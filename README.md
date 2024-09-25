@@ -15,8 +15,8 @@
 
 #### Frameworks 
 
-[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind)](https://skillicons.dev)
 
 #### Tools
 
-[![Tools](https://skillicons.dev/icons?i=webpack,vite,vscode,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=webpack,vite,rollupjs,vscode,git)](https://skillicons.dev)
