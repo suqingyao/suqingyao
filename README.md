@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @SuQingyao, China
 - 🎨 A frontend developer.
-- ✨ Like to listen to music while coding.
+- ✨ Enjoy listening to music and watching anime.
 <p align="center">
   <samp>
     <a href="https://suqingyao.me">blog</a> .
-    <a href="https://github.com/cullyfung">Github</a> .
-    <a href="https://twitter.com/cully_fung">twitter</a> .
+    <a href="https://github.com/suqingyao">Github</a> .
+    <a href="https://twitter.com/suqingyao333">twitter</a> .
   </samp>
 </p>
 
@@ -15,7 +15,7 @@
 
 #### Frameworks 
 
-[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,vue)](https://skillicons.dev)
 
 #### Tools
 
