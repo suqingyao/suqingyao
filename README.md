@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuQingyao, China
 - 🎨 A frontend developer.
-- ✨ Enjoy listening to music and watching anime.
+- ✨ Enjoy anime and music.
 <p align="center">
   <samp>
     <a href="https://suqingyao.me">blog</a> .
